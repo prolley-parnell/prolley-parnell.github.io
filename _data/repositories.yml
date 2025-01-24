@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - prolley-parnell
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - prolley-parnell/AntMatlab
+  - prolley-parnell/SAM2_cluster
+  - prolley-parnell/SLEAP_train
+  - prolley-parnell/persimmon_soufle
+
